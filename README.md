@@ -14,4 +14,5 @@ React + Tailwind CSS + Recharts
 
 ## How to Run
 npm install
+
 npm run dev
